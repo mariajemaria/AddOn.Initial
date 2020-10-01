@@ -14,7 +14,7 @@
   <files>
     <file src="bin\$configuration$\AddOn.Initial.dll" target="lib\net461\" />
     <file src="bin\$configuration$\AddOn.Initial.zip" target="content\modules\_protected\AddOn.Initial\" />
-	<file src="web.config.install.xdt" target="content" />
+    <file src="web.config.install.xdt" target="content" />
     <file src="web.config.uninstall.xdt" target="content" />
   </files>
 </package>
